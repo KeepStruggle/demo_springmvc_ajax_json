@@ -1,0 +1,2 @@
+# demo_springmvc_ajax_json
+普通javaweb项目的ajax和json练习
